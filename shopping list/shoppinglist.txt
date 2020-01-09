@@ -1,0 +1,4 @@
+apple,pear,lemon,house,car
+banana,car,house,computer,keyboard
+mouse,banana,monitor,apple,car
+apple,table,chicken,lamp,phone
